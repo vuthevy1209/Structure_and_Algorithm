@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/vuthevy1209/Documents/LAP_TRINH/Structure_and_Algorithm/TEMPLATE_STRUCTUE/linked list",
+      "program": "/Users/vuthevy1209/Documents/LAP_TRINH/Structure_and_Algorithm/TEMPLATE_STRUCTUE/linked list/build/Debug/outDebug"
+    }
+  ]
+}
